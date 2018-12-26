@@ -6,9 +6,9 @@ This is the configuration addon for OpenPermissions.
 
 ## How to install
 
-1. [Download the addon](https://github.com/GmodAdminSuite/config/archive/master.zip)
-2. Drop the `openpermissions-config` (which is inside the zip you just downloaded) folder into your server's `garrysmod/addons/` folder
-3. Open the `garrysmod/addons/openpermissions-config/lua` folder on your server
+1. [Download the addon](https://github.com/GmodAdminSuite/OpenPermissions-Config/archive/master.zip)
+2. Drop the EXTRACTED `OpenPermissions-Config-master` folder into your server's `garrysmod/addons/` folder
+3. Open the `garrysmod/addons/OpenPermissions-Config-master/lua` folder on your server
 4. Read each file and configure them accordingly
 
 ## Installing OpenPermissions
